@@ -1,1 +1,1 @@
-# firn-formation
+# fin-formation
