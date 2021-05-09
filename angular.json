@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "fin-formation"
+  "defaultProject": "fin-formation",
+  "cli": {
+    "analytics": false
+  }
 }
